@@ -1,4 +1,6 @@
-<h1 align="center">![](CorData_OrangeBlue_Orizzontale.png)</h1>
+<h1 align="center">
+  <img src="./CorData_OrangeBlue_Orizzontale.png" alt="CorData logo" width="520">
+</h1>
 <p align="center"><strong>Data science & AI for healthcare, science, and industry.</strong></p>
 
 <p align="center">
@@ -90,4 +92,4 @@ Sanità e life sciences, sorveglianza e sicurezza alimentare, NLP clinico, segna
 
 ---
 
-<p align="center">Made with care in Italy · © ![](CorData_OrangeBlue_Orizzontale.png){width=10%}</p>
+<p align="center">Made with care in Italy · © <img src="./CorData_OrangeBlue_Orizzontale.png" alt="CorData logo" width="104"></p>
