@@ -48,7 +48,7 @@ Healthcare & life sciences, food safety & surveillance, clinical NLP, biomedical
 ### Contact
 - ✉️ **Mail**: info@cordatasrls.com
 - 🧭 GitHub: **@cordata**
-- 🌐 Website: ttp://cordatasrls.com
+- 🌐 Website: http://cordatasrls.com
 
 > _Licenses may differ per repository; see each project’s **LICENSE** file._
 
